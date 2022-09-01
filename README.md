@@ -6,5 +6,8 @@
 - Escopo
 - Levantamento de requisitos
    * Requisitos funcionais e não funcionais
+   * Diagramas de Caso de Uso
+   * Diagramas de classe
+   * Diagramas de sequência
 - Cronograma
    * Sprints

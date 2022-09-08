@@ -36,6 +36,8 @@ Nesse sentido, a partir das ideias apresentadas o foco do projeto é fornecer um
 ### 1.2 Observação do cenário
  - Fluxograma de interação no token 
   [![Fluxograma](https://files.catbox.moe/m8vqrq.png "Fluxograma")](https://files.catbox.moe/m8vqrq.png "Fluxograma")
+ - Fluxograma do SAC
+ - Fluxograma do App
  
 ### 1.3 Entrevista com _stakeholders_
 - Anexa pesrguntas do formulário

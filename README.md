@@ -4,28 +4,38 @@
 # Etapas e datas de conclusão das atividades:
 
 - Escopo (08/09/2022)
-- Levantamento de requisitos ( /09/2022)
-   * Requisitos funcionais e não funcionais (/09/2022)
-   * Diagramas de Caso de Uso (/09/2022)
-   * Diagramas de classe (/10/2022)
-   * Diagramas de sequência (/10/2022)
+- Levantamento de requisitos (29/09/2022)
+   * Requisitos funcionais e não funcionais (08/09/2022)
+   * Diagramas de Caso de Uso (15/09/2022)
+   * Diagramas de classe (29/09/2022)
+   * Diagramas de sequência (06/10/2022)
 - Cronograma
    * Sprints Semanais
    
 ### Capítulo 1 - Levantamento de requisitos
 ### 1.1 _Brainstorm_ e linhas gerais do projeto
 
-Ponto focal do projeto: Ponto de venda inteligente
+Ponto focal do projeto: Ponto de venda inteligente.
+
 O que espera-se:
 - Comércio de bebidas (alcoólicas e não alcoólicas);
 - Braço mecânico;
 - Controle de idade;
-- Programa de fidelidade.
+- Programa de fidelidade - cupons.
+- Métodos de pagamento (Pix e Cartão de Crédito);
+- Controle de estoque;
+- Token;
+- Banco de dados;
+- Gôndolas virtuais;
+- Aplicativo mobile com possibilidade de compra prévia;
+- SAC com integração ao Banco de Dados;
+- Cerveja gelada.
 
-Nesse sentido, a partir das ideias apresentadas o projeto será um... O problema do negócio é viabilizar a aquisição de bebidas alcoólicas e não alcóólicas fora do horário comercial.
+Nesse sentido, a partir das ideias apresentadas o foco do projeto é fornecer uma estrutura automatizada para comércio. O problema do negócio é viabilizar a aquisição de bebidas alcoólicas e não alcóólicas, especialmente, fora do horário comercial.
 
 ### 1.2 Observação do cenário
- - Fluxograma
+ - Fluxograma de interação no token 
+  [![Fluxograma](https://files.catbox.moe/m8vqrq.png "Fluxograma")](https://files.catbox.moe/m8vqrq.png "Fluxograma")
  
 ### 1.3 Entrevista com _stakeholders_
 - Anexa pesrguntas do formulário

@@ -57,7 +57,7 @@ Tabela 2. Matriz Foda na perspectiva do Negócio
 
 ### Diagramas
 
-Os diagramas de classe, caso de uso e sequência na [pasta X](https://www.google.com/?gws_rd=ssl).
+Os diagramas de classe, caso de uso e sequência na [pasta X](https://github.com/smllb/projeto-es3/tree/main/Diagrama).
 
 ### Protótipo
 

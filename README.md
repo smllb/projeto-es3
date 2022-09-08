@@ -12,7 +12,7 @@
 - Cronograma
    * Sprints Semanais
    
-### Capítulo 1 - Definição do Escopo
+### Capítulo 1 - Levantamento de requisitos
 ### 1.1 _Brainstorm_ e linhas gerais do projeto
 
 Ponto focal do projeto: Ponto de venda inteligente
@@ -22,9 +22,19 @@ O que espera-se:
 - Controle de idade;
 - Programa de fidelidade.
 
-Nesse sentido, a partir das ideias apresentadas o projeto será um...
+Nesse sentido, a partir das ideias apresentadas o projeto será um... O problema do negócio é viabilizar a aquisição de bebidas alcoólicas e não alcóólicas fora do horário comercial.
 
-### 1.2 Análise estratégica no âmbito da Engenharia de Software
+### 1.2 Observação do cenário
+ - Fluxograma
+ 
+### 1.3 Entrevista com _stakeholders_
+- Anexa pesrguntas do formulário
+- Descritiva dos resultados
+
+### 1.4 Testes de mesa
+- Cenário teste sendo validado
+
+### 1.5 Análise estratégica
 
 O intuito deste capítulo é explorar as facetas do projeto proposto através de matrizes FODA (Fortalezas, Oportunidades, Debilidades e Oportunidades) no que tange a Engenharia de Software e o negócio. 
 
@@ -43,3 +53,12 @@ Tabela 2. Matriz Foda na perspectiva do Negócio
 | 1. Outro <br > 2. Outro. <br > 3. Outro... | 1. Outro locais <br > 2. Outro... <br > 3. Outro...| 
 |1. Outro? <br > 2. Outro. <br > 3. Outro... | 1. Outro... <br > 2. Outro. <br > 3. Outro...  | 
 |  **Debilidades**|<div style="text-align: right">**Ameaças** |    
+
+
+### Diagramas
+
+Os diagramas de classe, caso de uso e sequência na [pasta X](https://www.google.com/?gws_rd=ssl).
+
+### Protótipo
+
+O protótipo foi realizado através do FIGMA. Acesse [aqui](https://www.google.com/?gws_rd=ssl)

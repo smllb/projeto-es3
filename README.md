@@ -37,12 +37,12 @@ Nesse sentido, a partir das ideias apresentadas o foco do projeto é fornecer um
  - Fluxograma de interação no token 
   [![Fluxograma](https://files.catbox.moe/m8vqrq.png "Fluxograma")](https://files.catbox.moe/m8vqrq.png "Fluxograma")
  - Fluxograma do SAC
- 
+  [![Fluxograma](https://files.catbox.moe/y49sii.png "Fluxograma do SAC")](https://files.catbox.moe/y49sii.png "Fluxograma do SAC")
  - Fluxograma do App
  1. Compras no Aplicativo
- [![Fluxograma](https://files.catbox.moe/ppd9fs.png "Fluxograma")](https://files.catbox.moe/ppd9fs.png "Fluxograma de compras no APP")
+ [![Fluxograma](https://files.catbox.moe/ppd9fs.png "Fluxograma de compras no APP")](https://files.catbox.moe/ppd9fs.png "Fluxograma de compras no APP")
  2. Alteração de dados da conta e/ou exclusão da conta
- [![Fluxograma](https://files.catbox.moe/omqvaz.png "Fluxograma")](https://files.catbox.moe/omqvaz.png "Fluxograma de compras no APP")
+ [![Fluxograma](https://files.catbox.moe/omqvaz.png "Fluxograma de alterações na conta dentro do APP")](https://files.catbox.moe/omqvaz.png "Fluxograma de alterações na conta dentro do APP")
  
  
 ### 1.3 Entrevista com _stakeholders_

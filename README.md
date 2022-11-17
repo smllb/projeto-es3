@@ -79,4 +79,4 @@ Os diagramas de classe, caso de uso e sequência estão disponíveis nessa [past
 
 ### Protótipo
 
-O protótipo foi realizado através do FIGMA. Acesse [aqui](https://www.google.com/?gws_rd=ssl)
+O protótipo foi realizado através do FIGMA. Acesse [aqui](https://github.com/smllb/projeto-es3/tree/main/Prot%C3%B3tipos)
